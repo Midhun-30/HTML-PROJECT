@@ -1,6 +1,6 @@
 # HTML Project - Event Page, Tables, and Forms
 
-Welcome to the HTML Project repository! This repository contains the starter and final code for two complete projects that will be covered in a YouTube tutorial series. The tutorial series aims to provide comprehensive knowledge about HTML and guide you through building two exciting projects: an Event Page and a project focused on Tables and Forms.
+Welcome to the HTML Project repository! This repository contains the starter and final code for two complete projects.This aims to provide comprehensive knowledge about HTML and guide you through building two exciting projects: an Event Page and a project focused on Tables and Forms.
 
 ## Project 1: Event Page
 
@@ -13,8 +13,6 @@ In the first project, we will build an Event Page that will cover a wide range o
 - HTML Boilerplate: `<html>`
 - Image Tag: `<img>`
 
-By the end of this project, you will have a clear understanding of how to structure basic HTML elements and create an appealing Event Page.
-
 ## Project 2: Tables and Forms
 
 In the second project, we will dive deeper into HTML by focusing on two important components: Tables and Forms. Tables are used to present data in a structured format, while forms are essential for user input and data submission. Throughout this project, you will learn to use the following HTML elements:
@@ -25,8 +23,6 @@ In the second project, we will dive deeper into HTML by focusing on two importan
 - Table Data Cell Tag: `<td>`
 - Form Tag: `<form>`
 - Input Tags: `<input>` (various types), `<textarea>`, `<select>`, `<option>`, `<label>`, `<button>`
-
-By the end of this project, you will be proficient in creating tables and forms, and you'll understand how to collect user input and process it.
 
 ## How to Use this Repository
 
@@ -44,16 +40,6 @@ To get started with a specific project, follow these steps:
 
 3. Inside each project folder, you will find a `starter` and a `final` folder. Open the `starter` folder in your preferred code editor to access the initial code.
 
-4. Follow along with the YouTube tutorial series to build the projects step-by-step. You can use the `starter` code as a starting point and make changes as guided in the tutorial.
-
-5. If you encounter any issues or have questions during the tutorial, feel free to open an issue in this repository. We encourage collaboration and learning together!
-
-## Contributing
-
-If you find any bugs, have suggestions for improvements, or want to add more features to the projects, we welcome your contributions! Simply fork this repository, make your changes, and submit a pull request.
-
-## About the Author
-
-This tutorial series is created and presented by (https://www.youtube.com/), a passionate web developer with a goal to share knowledge and help others learn HTML effectively.
+4. Follow along to build the projects step-by-step. You can use the `starter` code as a starting point and make changes as guided in the tutorial.
 
 Enjoy the journey of learning HTML and building exciting projects with us! Happy coding! 🚀🎉
